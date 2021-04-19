@@ -4,9 +4,9 @@
 
 **A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.**
 
-_MONGO DB, INDEXDB, & HEROKU_
+_NodeJS, Inquire, TestJest_
 
-![Cover](/public/css/budget.png)
+![Cover](/team-profile.png)
 
 ---
 
